@@ -3,7 +3,7 @@
 if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
   var Tar = require('./tar.js');
   var download = require('./download.js');
-  var GIF = require('./gif.js');
+  // var GIF = require('./gif.js');
   var WebMWriter = require('./webm-writer-0.2.0');
 }
 
